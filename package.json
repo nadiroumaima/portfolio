@@ -40,7 +40,7 @@
     "markdown-it-shiki": "^0.9.0",
     "postcss-nested": "^6.0.1",
     "postcss-preset-env": "^7.8.3",
-    "prettier": "^3.0.3",
+    "prettier": "^3.2.4",
     "stylelint": "^14.16.1",
     "stylelint-config-standard": "^29.0.0",
     "unplugin-auto-import": "^0.16.7",
