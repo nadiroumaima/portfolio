@@ -24,7 +24,7 @@
     "vue": "^3.3.7",
     "vue-gtag": "^2.0.1",
     "vue-router": "^4.2.5",
-    "vuefire": "^3.1.18"
+    "vuefire": "^3.1.22"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.4.0",
