@@ -1,81 +1,20 @@
 {
-  "aircnc": {
-    "order": 1,
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Faircnc.png?alt=media&token=0e827724-c281-4196-b801-48c0194cdbf0",
-    "title": "Aircnc",
-    "tags": "Fullstack",
-    "demo": "https://aircnc-web.herokuapp.com/",
-    "github": "https://github.com/jeferson-sb/aircnc"
-  },
-  "chatme": {
+  
+  "Carpoolers": {
     "order": 2,
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Fchatme.png?alt=media&token=f1a2d950-6c59-4fe6-a9ea-e9d11b8ee255",
-    "title": "ChatMe",
-    "tags": "Node.js, Vue.js, Socket.io",
-    "demo": "https://whispering-reaches-62773.herokuapp.com/",
-    "github": "https://github.com/jeferson-sb/node-chat-app",
+    "thumbnail": "src/assets/img/127.0.0.1_8000_dashboard.png",
+    "title": "Carpoolers",
+    "tags": "Laravel , bootstrap",
+    "github": "https://github.com/nadiroumaima/carpooling-app",
     "pinned": true,
-    "description": "Lightweight chat app built with Vue 2, Express and Socket.io"
+    "description": "Carpoolers your ride sharing experience built with laravel and bootstrap"
   },
-  "whatconf": {
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Fwhatconf.png?alt=media&token=a34f3155-b326-4944-a767-82fcc108092e",
-    "title": "WhatConf",
-    "tags": "Next.js, tRPC, Prisma",
-    "demo": "https://whatconf.vercel.app/",
-    "github": "https://github.com/jeferson-sb/whatconf",
+  "ENSIAS InternHub": {
+    "thumbnail": "src/assets/img/INDEX2.jpeg",
+    "title": "ENSIAS InternHub",
+    "tags": "SpringBoot, Angular,PostgreSQL",
+    "github": "https://github.com/GhitaLoukili/Internship-management/",
     "pinned": true,
-    "description": "Tech conferences feed that users can check its date and details and subscribe to receive web notifications!"
-  },
-  "dogAI": {
-    "order": 1,
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2FdogAI.jpg?alt=media&token=8a340fd4-749b-41c8-8200-f51db8df27cf",
-    "title": "Dog AI",
-    "tags": "Front-end, React, Tensorflow",
-    "demo": "https://dogai.netlify.com/",
-    "github": "https://github.com/jeferson-sb/dogAI",
-    "pinned": true,
-    "description": "Dog breed image recognition with Teachable Machine & Tensorflow.js"
-  },
-  "gobarber": {
-    "order": 3,
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Fgobarber.jpg?alt=media&token=9a733a14-f498-465a-96dd-e034f773513a",
-    "title": "GoBarber",
-    "tags": "Node.js, React, TypeScript",
-    "github": "https://github.com/jeferson-sb/gobarber-web",
-    "pinned": true,
-    "description": "React app to manage haircuts appointments"
-  },
-  "devradar": {
-    "order": 4,
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Fdevradar.jpg?alt=media&token=1f23fb7e-23e2-4270-a057-d724b3b880eb",
-    "title": "DevRadar",
-    "tags": "Full Stack",
-    "demo": "https://devradar-api.appspot.com/",
-    "github": "https://github.com/jeferson-sb/devradar"
-  },
-  "ecoleta": {
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Fecoleta.png?alt=media&token=43931213-70df-4a66-9cf4-d6bb6fe50889",
-    "title": "Ecoleta",
-    "tags": "React, React Native, Node.js, TypeScript",
-    "demo": "https://ecoleta-nlw.netlify.app/",
-    "github": "https://github.com/jeferson-sb/ecoleta",
-    "description": "Marketplace de coleta de resíduos"
-  },
-  "tindev": {
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Ftindev.png?alt=media&token=f59beae0-3f38-45dc-90ef-8d1ec87b0f43",
-    "title": "Tindev",
-    "tags": "React, React Native, Node.js, TypeScript",
-    "demo": "https://tindev-app.herokuapp.com",
-    "github": "https://github.com/jeferson-sb/tindev"
-  },
-  "bethehero": {
-    "order": 4,
-    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/portfolio-d3c7c.appspot.com/o/posts_media%2Fbethehero.png?alt=media&token=5af9bc3e-0e5f-4758-bc24-8775d4fdd10a",
-    "title": "Be the Hero",
-    "tags": "Node.js, React, React Native",
-    "demo": "https://be-thehero.netlify.com/",
-    "github": "https://github.com/jeferson-sb/be-the-hero",
-    "pinned": false,
-    "description": "Donate System for NGOs campaigns"
+    "description": "The Internship Management System is a web application built to streamline and manage the internship process. This project utilizes Spring Boot for the backend, Angular for the frontend, and PostgreSQL as the database."
   }
 }

@@ -3,7 +3,7 @@
     <aside>
       <HeroAvatar>
         <img
-          src="@/assets/img/profile.jpg"
+          src="@/assets/img/profile.jpeg"
           alt="me"
           width="140"
           loading="lazy"
@@ -16,23 +16,22 @@
         <h1 class="about-content__headline">About me</h1>
         <p>👋 Hey! How are you?</p>
         <p>
-          I'm Jeferson. I'm a
-          <strong>software engineer</strong> dedicated to
+          I'm Oumaima. I'm a
+          <strong>software engineer student</strong> dedicated to
           <em> crafting </em> things for the web through coding.
         </p>
         <p>
-          I wrote my first lines of code back in 2014 of HTML4, CSS and ES5
-          using just a notepad in a very low machine 😅. Like many people I
-          graduated a few years later and since then I've been on this adventure
-          into the world of programming.
+          I'm on my second year at ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes)
+
         </p>
         <p>
-          I don't have "favorites", but I like to code on JavaScript,
-          Typescript, Python, and Elixir at the moment. I also like to think
-          outside coding, prioritizing tasks/features, and proving the best
-          practices, fundamentals, and consistency throughout the code.
+        Always looking to learn new technologies to enrich my skills and improve my good practices as a developer.
+
+
+
+          
         </p>
-        <p>I'm into computers, ui design, games and anime (of course) :P</p>
+        <p>I'm into coding  and  i'm a bookwormie (of course) :P</p>
         <SocialMediaIcons boxed />
       </article>
     </main>
@@ -43,7 +42,7 @@
 import { useRoute } from 'vue-router'
 import config from '../config/siteconfig.json'
 
-const title = 'About me • Jeferson S. Brito'
+const title = 'About me • NADIR Oumaima'
 const { description } = config
 const route = useRoute()
 

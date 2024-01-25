@@ -15,13 +15,13 @@ meta:
 
 # What I'm doing now
 
-📖 Currently reading: <em>The Rust Programming Language</em> by Steve Klabnik and Carol Nichols. 🦀
+📖 Currently reading: <em>The 7 Habits of Highly Effective People</em> by Stephen Covey
+ 🦀
 
-✏️ Learning: Rust.
+✏️ Learning: JEE.
 
-📺 Watching: Sousou no Frieren.
+📺 Working: Media Manager of EITC & Survey V3 Manager.
 
-🎮 Currently playing: <em>Persona 3</em>.
 
 Happy new year! 🥳🚀
 
@@ -29,7 +29,7 @@ Excited to bring more content and start new projects this year, stay tuned!
 
 </article>
 
-<video src="@/assets/clip.mp4" height="300" autoplay loop muted />
+  <img src="https://64.media.tumblr.com/80c31342301504b079e7e2079a06b4be/31d95c5beb381ec8-d6/s500x750/6e1776a8577a911ddc3c17c95a4b033d532804ca.gifv" width="500"/>
 
 <style scoped>
 .prose {

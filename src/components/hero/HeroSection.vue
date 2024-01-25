@@ -1,23 +1,22 @@
 <template>
   <section class="hero container has-ellipse-curve">
     <div class="hero-content">
-      <h1 class="hero__headline">I'm Jeferson Brito</h1>
+      <h1 class="hero__headline">I'm NADIR Oumaima</h1>
       <p class="hero__description">
-        Software Engineer that crafts things for the Web, heavy focused on
-        front-end development enthusiastic and fascinated on UI design ✨
+        "Hello! I'm a  Software Engineer who specializes in crafting remarkable solutions for the web. With a keen interest in DevOps!"✨
       </p>
       <SocialMediaIcons />
     </div>
     <aside class="hero-aside">
       <ScrollIndicator class="is-mobile-only" />
-      <h2 class="hero__subheadline">web developer</h2>
+      <h2 class="hero__subheadline">Web Developer</h2>
       <HeroAvatar>
         <img
-          src="@/assets/img/profile.jpg"
+          src="@/assets/img/profile.jpeg"
           alt="me"
           class="hero-avatar__image"
-          width="140"
-          height="140"
+          width="160"
+          height="160"
           loading="lazy"
         />
       </HeroAvatar>

@@ -2,7 +2,7 @@
   <header class="header">
     <div class="container">
       <router-link to="/">
-        <h3>Jeferson Brito</h3>
+        <h3>NADIR Oumaima</h3>
       </router-link>
       <nav class="navbar">
         <ul class="navbar-menu">
@@ -12,11 +12,7 @@
           <li class="navbar-menu__item no-effect">
             <HamburgerMenu aria-controls="mobile-menu" @toggle="toggleMenu" />
           </li>
-          <li class="navbar-menu__item">
-            <router-link class="navbar-menu__link" to="/articles">
-              Articles
-            </router-link>
-          </li>
+          
           <li class="navbar-menu__item">
             <router-link class="navbar-menu__link" to="/about-me"
               >About</router-link
@@ -36,11 +32,7 @@
       </nav>
     </div>
     <MobileNavbar>
-      <li class="navbar-menu__item">
-        <router-link class="navbar-menu__link" to="/articles">
-          Articles
-        </router-link>
-      </li>
+      
       <li class="navbar-menu__item">
         <router-link class="navbar-menu__link" to="/about-me"
           >About</router-link

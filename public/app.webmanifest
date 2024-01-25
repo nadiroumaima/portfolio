@@ -1,10 +1,10 @@
 {
   "lang": "en-US",
-  "name": "Jeferson's Portfolio",
-  "short_name": "JB",
+  "name": "Oumaima's Portfolio",
+  "short_name": "Oumaima",
   "start_url": "/",
   "display": "standalone",
-  "description": "I'm a Software Engineer that crafts things for the Web, heavy focused on front-end development enthusiastic and fascinated on UI design",
+  "description": "Hello! I'm a passionate Software Engineer who specializes in crafting remarkable solutions for the web. With a keen interest in DevOps!",
   "icons": [
     {
       "src": "./android-chrome-192x192.png",

@@ -2,8 +2,11 @@
   <footer class="footer">
     <div class="container">
       <p class="footer__copyright">
-        <em>Made with ♥ by Jeferson</em>
-        <span>@2021 - Present. All rights reserved.</span>
+<div class="flex items-center">
+  <img src="\src\assets\img\Flag_of_Palestine.svg.png" alt="Flag of Palestine" style="width: 18px; height: 18px;">
+  <span class="ml-2">Take a stand against the ongoing genocide.</span>
+</div>
+        <span></span>
       </p>
       <div class="built-tech">
         <AppLink
